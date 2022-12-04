@@ -1,4 +1,5 @@
 #modules
+#dev: telegram => @Better_call_p0ry
 from tkinter import *
 import time
 
